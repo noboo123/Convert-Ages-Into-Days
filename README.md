@@ -1,12 +1,11 @@
 # project-age-in-days
-show age in days 
 
-create by js, css and html
+This program converts age into days.
 
-this is the source code
+Created with Javascript, CSS, and HTML.
 
-the original is from CleverProgrammer, his youtube channel is : https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ
+The original idea is from CleverProgrammer; this is his Youtube channel: https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ
 
-Edit by noboo123 (in the css file i add something to make it more prettier)
+Edited by me (In the CSS file, I add something to make it prettier.)
 
-P/s : use at your own risk (if it has been hacked or changed)!
+Thanks.
