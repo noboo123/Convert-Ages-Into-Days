@@ -17,9 +17,9 @@
 }
 .btnbtn-primary {
     background-color: #51769B;
-    border: none;
+    border-radius: 50%;
 }
 .btnbtn-danger {
     background-color: #E52421;
-    border: none;
+    border-radius: 50%;
 }
