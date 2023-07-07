@@ -1,4 +1,4 @@
-# project-age-in-days
+# Convert age into days.
 
 This program converts age into days.
 
